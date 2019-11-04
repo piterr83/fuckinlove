@@ -1,0 +1,39 @@
+{
+  "homepage": "http://piterr83.github.io/fuckinlove",
+  "name": "acidemind",
+  "version": "1.0.0",
+  "description": "Some basic",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run build",
+    "build": "webpack -d && webpack-dev-server --content-base src/ --inline --hot",
+    "bulid:prod": "webpack -p && copy src/index.html dist/index.html",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "keywords": [
+    "reactjs"
+  ],
+  "author": "Piotr Lisowski",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/preset-react": "^7.0.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.4.3",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "gh-pages": "^2.1.1",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0",
+    "webpack-dev-server": "^3.2.1"
+  }
+  
+}

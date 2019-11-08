@@ -1,10 +1,11 @@
 import React from "react"
 
+
 function Header(){
 
     return(
 
-        <header>this e header</header>
+        <header className="navbar">this e header</header>
     )
 }
 

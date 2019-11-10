@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e6eb2e8e59939ba3cee3e1d3457304d1",
+    "revision": "5483f6dd3677aa8e2e7314c3775fc5fa",
     "url": "/fuckinlove/index.html"
   },
   {
-    "revision": "c1bdc01a521eee1422dd",
+    "revision": "18c57f778f143bdb8be0",
     "url": "/fuckinlove/static/css/main.6d6c9850.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fuckinlove/static/js/2.b7708659.chunk.js"
   },
   {
-    "revision": "c1bdc01a521eee1422dd",
-    "url": "/fuckinlove/static/js/main.bcd16223.chunk.js"
+    "revision": "18c57f778f143bdb8be0",
+    "url": "/fuckinlove/static/js/main.65aa2f6d.chunk.js"
   },
   {
     "revision": "8a1c67ba7ca062249053",

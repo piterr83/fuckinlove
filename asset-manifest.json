@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fuckinlove/static/css/main.6d6c9850.chunk.css",
-    "main.js": "/fuckinlove/static/js/main.bcd16223.chunk.js",
-    "main.js.map": "/fuckinlove/static/js/main.bcd16223.chunk.js.map",
+    "main.js": "/fuckinlove/static/js/main.65aa2f6d.chunk.js",
+    "main.js.map": "/fuckinlove/static/js/main.65aa2f6d.chunk.js.map",
     "runtime-main.js": "/fuckinlove/static/js/runtime-main.bd0adc84.js",
     "runtime-main.js.map": "/fuckinlove/static/js/runtime-main.bd0adc84.js.map",
     "static/js/2.b7708659.chunk.js": "/fuckinlove/static/js/2.b7708659.chunk.js",
     "static/js/2.b7708659.chunk.js.map": "/fuckinlove/static/js/2.b7708659.chunk.js.map",
     "index.html": "/fuckinlove/index.html",
-    "precache-manifest.1b726726210808c0967dfcda0b63d2f3.js": "/fuckinlove/precache-manifest.1b726726210808c0967dfcda0b63d2f3.js",
+    "precache-manifest.849d981a4952d1f30bc53678817f4bfe.js": "/fuckinlove/precache-manifest.849d981a4952d1f30bc53678817f4bfe.js",
     "service-worker.js": "/fuckinlove/service-worker.js",
     "static/css/main.6d6c9850.chunk.css.map": "/fuckinlove/static/css/main.6d6c9850.chunk.css.map",
     "static/media/logo.svg": "/fuckinlove/static/media/logo.25bf045c.svg"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.bd0adc84.js",
     "static/js/2.b7708659.chunk.js",
     "static/css/main.6d6c9850.chunk.css",
-    "static/js/main.bcd16223.chunk.js"
+    "static/js/main.65aa2f6d.chunk.js"
   ]
 }

@@ -13,7 +13,7 @@ import Modal from './components/Modal.js'
 class App extends Component {
   render(){
   return (
-    /* navbar zawsze ma byc wyswietlany na stronie  */
+    /* navbar zawsze ma byc wyswietlany na stronie ! */
    
    <React.Fragment>
      <Navbar></Navbar>
